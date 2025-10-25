@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed42b78c-186a-4ddf-838f-730a810da425" name="Changes" comment="Working draft" />
+    <list default="true" id="ed42b78c-186a-4ddf-838f-730a810da425" name="Changes" comment="fixed broken ascii">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,12 +28,12 @@
     &quot;assignee&quot;: &quot;RaghavapriyanSaravanapriyan&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/RaghavapriyanSaravanapriyan/CLI_Student_management_system.git",
-    "accountId": "87637829-5442-44f7-aa5a-5f11936e70cf"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RaghavapriyanSaravanapriyan/CLI_Student_management_system.git&quot;,
+    &quot;accountId&quot;: &quot;87637829-5442-44f7-aa5a-5f11936e70cf&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -43,21 +45,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.banner.executor": "Run",
-    "Python.browse_particular_profile.executor": "Run",
-    "Python.closemenu.executor": "Run",
-    "Python.createprofile.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.android.studio.ml.bot.mainConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.banner.executor&quot;: &quot;Run&quot;,
+    &quot;Python.browse_particular_profile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.closemenu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.createprofile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.view_all.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.android.studio.ml.bot.mainConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -113,7 +116,135 @@
       <option name="project" value="LOCAL" />
       <updated>1761244267765</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Working draft">
+      <option name="closed" value="true" />
+      <created>1761244493640</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1761244493640</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Updated README.md">
+      <option name="closed" value="true" />
+      <created>1761244538119</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1761244538119</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Updated README.md">
+      <option name="closed" value="true" />
+      <created>1761244600551</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1761244600551</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updated README.md">
+      <option name="closed" value="true" />
+      <created>1761244667695</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1761244667695</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Updated README.md">
+      <option name="closed" value="true" />
+      <created>1761244734115</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1761244734115</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fixed">
+      <option name="closed" value="true" />
+      <created>1761244849975</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1761244849975</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fixed known bugs">
+      <option name="closed" value="true" />
+      <created>1761245005831</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1761245005831</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fixed raised issue regarding data type mismatch">
+      <option name="closed" value="true" />
+      <created>1761282409423</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1761282409423</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fixed raised issue regarding data type mismatch">
+      <option name="closed" value="true" />
+      <created>1761282447326</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1761282447326</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fixed raised issue regarding data type mismatch">
+      <option name="closed" value="true" />
+      <created>1761282878185</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1761282878185</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fixed raised issue regarding data type mismatch">
+      <option name="closed" value="true" />
+      <created>1761282891481</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1761282891481</updated>
+    </task>
+    <task id="LOCAL-00017" summary="fixed reg no duplication">
+      <option name="closed" value="true" />
+      <created>1761284884598</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1761284884598</updated>
+    </task>
+    <task id="LOCAL-00018" summary="final_fixed01">
+      <option name="closed" value="true" />
+      <created>1761285004978</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1761285004978</updated>
+    </task>
+    <task id="LOCAL-00019" summary="fixed recursion">
+      <option name="closed" value="true" />
+      <created>1761287483771</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1761287483771</updated>
+    </task>
+    <task id="LOCAL-00020" summary="fixed exitpath">
+      <option name="closed" value="true" />
+      <created>1761288154080</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1761288154080</updated>
+    </task>
+    <task id="LOCAL-00021" summary="fixed broken ascii">
+      <option name="closed" value="true" />
+      <created>1761382833131</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1761382833131</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,7 +262,16 @@
     <MESSAGE value="Start_of_project" />
     <MESSAGE value="Working_banner" />
     <MESSAGE value="Working draft" />
-    <option name="LAST_COMMIT_MESSAGE" value="Working draft" />
+    <MESSAGE value="Updated README.md" />
+    <MESSAGE value="fixed" />
+    <MESSAGE value="fixed known bugs" />
+    <MESSAGE value="fixed raised issue regarding data type mismatch" />
+    <MESSAGE value="fixed reg no duplication" />
+    <MESSAGE value="final_fixed01" />
+    <MESSAGE value="fixed recursion" />
+    <MESSAGE value="fixed exitpath" />
+    <MESSAGE value="fixed broken ascii" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed broken ascii" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
