@@ -1,4 +1,8 @@
 def banner_print():
+    # ANSI escape codes for blue color and reset
+    BLUE = "\033[94m"
+    RESET = "\033[0m"
+
     banner_title=r"""
 
 ░█████╗░██╗░░░░░██╗  ░██████╗████████╗██╗░░░██╗██████╗░███████╗███╗░░██╗████████╗
@@ -22,5 +26,5 @@ def banner_print():
 ██████╔╝░░░██║░░░██████╔╝░░░██║░░░███████╗██║░╚═╝░██║
 ╚═════╝░░░░╚═╝░░░╚═════╝░░░░╚═╝░░░╚══════╝╚═╝░░░░░╚═╝
 """
-    print(banner_title)
+    print(BLUE + banner_title + RESET)
     return 0

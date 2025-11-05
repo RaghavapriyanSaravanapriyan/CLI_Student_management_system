@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed42b78c-186a-4ddf-838f-730a810da425" name="Changes" comment="updated">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ed42b78c-186a-4ddf-838f-730a810da425" name="Changes" comment="cgpa and whole stats" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -261,7 +259,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762338754572</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="cgpa and whole stats">
+      <option name="closed" value="true" />
+      <created>1762339979869</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1762339979869</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -289,7 +295,8 @@
     <MESSAGE value="fixed exitpath" />
     <MESSAGE value="fixed broken ascii" />
     <MESSAGE value="updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated" />
+    <MESSAGE value="cgpa and whole stats" />
+    <option name="LAST_COMMIT_MESSAGE" value="cgpa and whole stats" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -300,12 +307,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
-          <line>48</line>
+          <line>56</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
-          <line>35</line>
+          <line>37</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>

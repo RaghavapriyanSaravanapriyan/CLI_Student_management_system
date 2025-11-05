@@ -4,12 +4,11 @@ import pandas as pd
 import numpy as np
 from closemenu import exit_request
 
-# banner
-banner_print()
-
 # main menu
 def main_menu():
     while True:
+        # banner
+        banner_print()
         print("Welcome to CLI Student management system!\n")
         print("Choose one of the following options:\n")
         print("[1] View list of all existing student profiles")
