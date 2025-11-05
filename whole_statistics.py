@@ -25,7 +25,7 @@ def calculate_and_display_whole_stats():
     exit_request()
 
 def cgpa_calculator():
-    """A tool to calculate the new cumulative CGPA based on previous and current semester performance."""
+    #for cgpa calculation with credits
     print("\n--- CGPA Calculator ---")
     try:
         prev_cgpa = float(input("Enter your previous cumulative CGPA: "))
