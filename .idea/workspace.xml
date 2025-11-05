@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed42b78c-186a-4ddf-838f-730a810da425" name="Changes" comment="fixed broken ascii">
+    <list default="true" id="ed42b78c-186a-4ddf-838f-730a810da425" name="Changes" comment="updated">
+      <change afterPath="$PROJECT_DIR$/visualize.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/browse_particular_profile.py" beforeDir="false" afterPath="$PROJECT_DIR$/browse_particular_profile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/closemenu.py" beforeDir="false" afterPath="$PROJECT_DIR$/closemenu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/createprofile.py" beforeDir="false" afterPath="$PROJECT_DIR$/createprofile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/editprofile.py" beforeDir="false" afterPath="$PROJECT_DIR$/editprofile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view_all.py" beforeDir="false" afterPath="$PROJECT_DIR$/view_all.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +28,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -244,7 +252,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761382833131</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="fixed broken ascii">
+      <option name="closed" value="true" />
+      <created>1761410770056</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1761410770056</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -279,6 +295,11 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/createprofile.py</url>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1,6 +1,25 @@
 # view_all.py
 data = [
-    [101, "Alice Smith", "12", "A", "555-1234", "alicesmith.gmail.com", "88"],
-    [102, "Bob Johnson", "11", "B", "555-5678", "bobjohnson.gmail.com", "92"],
-    # ... more student data
+    [101, "Alice Smith", 12, "A", "555-1234", "alicesmith.gmail.com", 88, 8.0, 8.5, 95],
+    [102, "Bob Johnson", 11, "B", "555-5678", "bobjohnson.gmail.com", 92, 8.8, 9.0, 98],
+    [103, "Charlie Brown", 10, "C", "555-1111", "charlie.b@example.com", 78, 7.0, 7.2, 85],
+    [104, "Diana Prince", 12, "A", "555-2222", "diana.p@example.com", 95, 9.2, 9.5, 99],
+    [105, "Eve Adams", 9, "D", "555-3333", "eve.a@example.com", 65, 5.8, 6.1, 75],
+    [106, "Frank White", 11, "B", "555-4444", "frank.w@example.com", 82, 7.8, 8.0, 90],
+    [107, "Grace Hall", 10, "A", "555-5555", "grace.h@example.com", 89, 8.5, 8.8, 92],
+    [108, "Harry King", 12, "C", "555-6666", "harry.k@example.com", 72, 6.8, 7.0, 80],
+    [109, "Ivy Lee", 9, "B", "555-7777", "ivy.l@example.com", 91, 8.9, 9.1, 96],
+    [110, "Jack Green", 11, "D", "555-8888", "jack.g@example.com", 77, 7.5, 7.8, 88],
+    [111, "Karen Black", 10, "A", "555-9999", "karen.b@example.com", 85, 8.1, 8.3, 91],
+    [112, "Liam Scott", 12, "B", "555-1010", "liam.s@example.com", 90, 8.8, 9.0, 97],
+    [113, "Mia Taylor", 9, "C", "555-1212", "mia.t@example.com", 68, 6.2, 6.5, 78],
+    [114, "Noah Clark", 11, "A", "555-1313", "noah.c@example.com", 80, 7.7, 7.9, 89],
+    [115, "Olivia Lewis", 10, "D", "555-1414", "olivia.l@example.com", 93, 9.0, 9.3, 94],
+    [116, "Peter Young", 12, "B", "555-1515", "peter.y@example.com", 70, 6.5, 6.8, 76],
+    [117, "Quinn Hill", 9, "A", "555-1616", "quinn.h@example.com", 87, 8.4, 8.6, 93],
+    [118, "Rachel Adams", 11, "C", "555-1717", "rachel.a@example.com", 75, 7.1, 7.3, 82],
+    [119, "Sam Baker", 10, "B", "555-1818", "sam.b@example.com", 94, 9.2, 9.4, 98],
+    [120, "Tina Davis", 12, "D", "555-1919", "tina.d@example.com", 60, 5.5, 5.9, 70],
+    [121, "Uma Wilson", 9, "C", "555-2020", "uma.w@example.com", 81, 7.9, 8.1, 87],
+    [122, "Victor Moore", 11, "A", "555-2121", "victor.m@example.com", 86, 8.5, 8.7, 90]
 ]
