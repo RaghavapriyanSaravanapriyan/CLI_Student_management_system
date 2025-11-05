@@ -17,7 +17,9 @@ def main_menu():
         print("[3] Browse particular profile")
         print("[4] Edit existing profile")
         print("[5] Delete existing profile")
-        print("[6] Visualize student data\n")
+        print("[6] Visualize student data")
+        print("[7] View Whole Statistics")
+        print("[8] CGPA Calculator\n")
         try:
             choice = int(input("Your option - "))
 
@@ -44,6 +46,12 @@ def main_menu():
             elif choice == 6:
                 import visualize
                 visualize.visualize_data()
+            elif choice == 7:
+                import whole_statistics
+                whole_statistics.calculate_and_display_whole_stats()
+            elif choice == 8:
+                import whole_statistics
+                whole_statistics.cgpa_calculator()
             else:
                 print("Invalid option selected. Please try again.\n")
         except ValueError:
