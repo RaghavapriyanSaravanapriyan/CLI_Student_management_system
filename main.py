@@ -7,7 +7,6 @@ from closemenu import exit_request
 # main menu
 def main_menu():
     while True:
-        # banner
         banner_print()
         print("Welcome to CLI Student management system!\n")
         print("Choose one of the following options:\n")
